@@ -13,6 +13,8 @@ The app will initially serve a few hundred users per day but is expected to scal
 
 The high-level architecture diagram is located in the project root directory: aws-arch-design/eksArch.png
 
+![EKS Architecture](eksArch.png)
+
 ---
 
 ## AWS Account Structure
