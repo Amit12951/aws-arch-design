@@ -14,7 +14,7 @@ The app will initially serve a few hundred users per day but is expected to scal
 
 The architecture diagram is in the project root: `eksArch.png`
 
-![EKS Architecture](eksArch.png)
+![EKS Architecture](HLD.png)
 
 ---
 
